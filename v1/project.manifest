@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/huethiboss96/bros_cdn/main/v1/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/huethiboss96/bros_cdn/main/v1/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/huethiboss96/bros_cdn/main/v1/",
-	"version" : "5",
+	"version" : "6",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5783,7 +5783,7 @@
 			"md5": "9aac812dfadb0e99383d1390a819a72f"
 		},
 		"src/Retro/UI/Rate.js": {
-			"md5": "5d8580700a6f0e842b597533db97611d"
+			"md5": "04d3616b472a77b2293e0f8def60b9f9"
 		},
 		"src/Retro/UI/TestLayer.js": {
 			"md5": "a7959fcda0bcaddb2cd94541b7506471"
